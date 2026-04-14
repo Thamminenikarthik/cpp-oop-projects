@@ -1,0 +1,1 @@
+here the data which are going to give as an input will be stored for the further use and it won't be cleared until we clear it manually
