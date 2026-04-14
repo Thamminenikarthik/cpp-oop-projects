@@ -1,0 +1,1 @@
+here the product details will be stored for the further use until we re compile the code
